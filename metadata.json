@@ -1,0 +1,6 @@
+{
+  "name": "MA MIFTAHUL ULUM AL-AZIZAH - Website Resmi Sekolah",
+  "description": "Portal resmi MAS MIFTAHUL ULUM AL-AZIZAH: PKKM 2026, visi misi, program akademik unggulan, pendaftaran PPDB online, prestasi, dan fasilitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
